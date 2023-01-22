@@ -1,7 +1,7 @@
 package main
 
 import (
-	"Net/http"
+	"net/http"
 	"bufio"
 	"flag"
 	"fmt"
